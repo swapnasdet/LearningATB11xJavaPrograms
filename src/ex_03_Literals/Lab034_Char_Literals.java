@@ -35,6 +35,6 @@ public class Lab034_Char_Literals {
 
         //storing smileys
         //char laugh_smiley='\u1f60';
-        System.out.println(laugh_smiley);
+        //System.out.println(laugh_smiley);
     }
 }
