@@ -5,8 +5,8 @@ public class Task_Person_Class_Method_Types {
 
 
         // 1.Without Parameters and Without Return Type
-        // 2.Without Parameters but With Return Type
-        // 3.With Parameters and Without Return Type
+        // 2.With Parameters and Without Return Type
+        // 3.Without Parameters but With Return Type
         // 4. With Parameters and With Return Type
     Person p1= new Person();
     p1.Welcome_Onboard();
@@ -30,12 +30,12 @@ class Person {
         System.out.println("Welcome to ATB11xJavaProgram");
 
     }
-    // 3.With Parameters and Without Return Type
+    // 2.With Parameters and Without Return Type
     void Admit_Confirm(String name){
         System.out.println("Hello Thank you for the Payment, your admission is confirmed " + name);
 
     }
-    // 2.Without Parameters but With Return Type
+    // 3.Without Parameters but With Return Type
     public int Admission_No(){
         id=123;
         System.out.println("Your Admission No is "+ id);
