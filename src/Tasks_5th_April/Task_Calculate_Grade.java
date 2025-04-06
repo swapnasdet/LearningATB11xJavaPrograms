@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks_5th_April;
 
 /*
 10) Calculate Grade Based on Marks. (Follow Below Steps to Write Program.)
