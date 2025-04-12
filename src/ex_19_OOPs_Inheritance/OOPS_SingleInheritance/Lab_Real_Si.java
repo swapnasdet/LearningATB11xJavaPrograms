@@ -1,4 +1,4 @@
-package Tasks.OOPS_SingleInheritance;
+package ex_19_OOPs_Inheritance.OOPS_SingleInheritance;
 
 public class Lab_Real_Si {
 

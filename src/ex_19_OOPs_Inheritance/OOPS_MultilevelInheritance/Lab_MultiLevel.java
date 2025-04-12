@@ -1,4 +1,4 @@
-package Tasks.OOPS_MultilevelInheritance;
+package ex_19_OOPs_Inheritance.OOPS_MultilevelInheritance;
 
 public class Lab_MultiLevel {
 

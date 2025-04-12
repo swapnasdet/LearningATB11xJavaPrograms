@@ -1,4 +1,4 @@
-package Tasks.OOPS_Inheritance;
+package ex_19_OOPs_Inheritance.OOPS_Inheritance;
 
 public class Lab_Inheritance {
     public static void main(String[] args) {
@@ -17,9 +17,9 @@ public class Lab_Inheritance {
 }
 class Father{
 
-    int gold_f = 1000;
+    int gold_f = 1000; // attribute, data variables. property, instance variable
 
-    void bhk2(){
+    void bhk2(){ // behaviour, method, function, data members
         System.out.println("Father - 2BHK");
     }
 
